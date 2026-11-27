@@ -13,6 +13,6 @@ A simple interactive counter application built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-## Live Demo
+## Live Demo 🚀 
 (https://devchanuu.github.io/-5-JAVASCRIPT-Counter-Program/)
 
